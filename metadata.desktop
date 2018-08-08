@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Arc Maia Dark Transparent
+
+X-KDE-PluginInfo-Author=Eric Macedo Cabral
+X-KDE-PluginInfo-Email=ericmacedo26@gmail.com
+X-KDE-PluginInfo-Name=Arc-Maia-Dark-Transparent
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
